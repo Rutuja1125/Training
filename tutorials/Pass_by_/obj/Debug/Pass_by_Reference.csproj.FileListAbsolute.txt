@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\bin\Debug\Pass_by_.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\bin\Debug\Pass_by_.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\bin\Debug\Pass_by_.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\obj\Debug\Pass_by_Reference.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\obj\Debug\Pass_by_Reference.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\obj\Debug\Pass_by_Reference.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\obj\Debug\Pass_by_.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Pass_by_\obj\Debug\Pass_by_.pdb

@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\bin\Debug\passby_value_and_reference.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\bin\Debug\passby_value_and_reference.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\bin\Debug\passby_value_and_reference.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\obj\Debug\passby_value_and_reference.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\obj\Debug\passby_value_and_reference.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\obj\Debug\passby_value_and_reference.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\obj\Debug\passby_value_and_reference.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\passby_value_and_reference\obj\Debug\passby_value_and_reference.pdb

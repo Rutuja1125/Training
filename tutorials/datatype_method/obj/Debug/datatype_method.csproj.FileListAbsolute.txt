@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\bin\Debug\datatype_method.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\bin\Debug\datatype_method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\bin\Debug\datatype_method.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\obj\Debug\datatype_method.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\obj\Debug\datatype_method.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\obj\Debug\datatype_method.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\obj\Debug\datatype_method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\datatype_method\obj\Debug\datatype_method.pdb

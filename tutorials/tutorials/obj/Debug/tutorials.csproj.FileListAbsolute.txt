@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\bin\Debug\tutorials.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\bin\Debug\tutorials.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\bin\Debug\tutorials.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\obj\Debug\tutorials.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\obj\Debug\tutorials.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\obj\Debug\tutorials.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\obj\Debug\tutorials.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\tutorials\obj\Debug\tutorials.pdb
