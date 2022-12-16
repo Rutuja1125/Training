@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\bin\Debug\Parameter_arrays.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\bin\Debug\Parameter_arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\bin\Debug\Parameter_arrays.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\obj\Debug\Parameter_arrays.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\obj\Debug\Parameter_arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\obj\Debug\Parameter_arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\obj\Debug\Parameter_arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Parameter_arrays\obj\Debug\Parameter_arrays.pdb

@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\bin\Debug\Static_Instance_class_members.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\bin\Debug\Static_Instance_class_members.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\bin\Debug\Static_Instance_class_members.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\obj\Debug\Static_Instance_class_members.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\obj\Debug\Static_Instance_class_members.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\obj\Debug\Static_Instance_class_members.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\obj\Debug\Static_Instance_class_members.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Static_Instance_class_members\obj\Debug\Static_Instance_class_members.pdb

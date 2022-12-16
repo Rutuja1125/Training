@@ -1,0 +1,11 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\bin\Debug\Namespace_tutorial.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\bin\Debug\Namespace_tutorial.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\bin\Debug\Namespace_tutorial.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\bin\Debug\Software.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\bin\Debug\Software.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Namespace_tutorial\obj\Debug\Namespace_tutorial.csproj.CopyComplete

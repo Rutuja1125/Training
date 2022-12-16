@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\obj\Debug\Introduction_to_Class.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\obj\Debug\Introduction_to_Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\obj\Debug\Introduction_to_Class.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\bin\Debug\Introduction_to_Class.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\bin\Debug\Introduction_to_Class.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\bin\Debug\Introduction_to_Class.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\obj\Debug\Introduction_to_Class.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Introduction_to_Class\obj\Debug\Introduction_to_Class.pdb

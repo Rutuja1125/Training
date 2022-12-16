@@ -1,0 +1,6 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\bin\Debug\Software.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\bin\Debug\Software.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\obj\Debug\Software.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\obj\Debug\Software.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Software\obj\Debug\Software.pdb
