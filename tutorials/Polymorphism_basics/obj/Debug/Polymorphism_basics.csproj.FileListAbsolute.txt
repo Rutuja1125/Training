@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\bin\Debug\Polymorphism_basics.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\bin\Debug\Polymorphism_basics.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\bin\Debug\Polymorphism_basics.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\obj\Debug\Polymorphism_basics.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\obj\Debug\Polymorphism_basics.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\obj\Debug\Polymorphism_basics.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\obj\Debug\Polymorphism_basics.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Polymorphism_basics\obj\Debug\Polymorphism_basics.pdb
