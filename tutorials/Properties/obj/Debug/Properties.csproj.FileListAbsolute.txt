@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\bin\Debug\Properties.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\bin\Debug\Properties.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\bin\Debug\Properties.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\obj\Debug\Properties.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\obj\Debug\Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\obj\Debug\Properties.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\obj\Debug\Properties.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Properties\obj\Debug\Properties.pdb
