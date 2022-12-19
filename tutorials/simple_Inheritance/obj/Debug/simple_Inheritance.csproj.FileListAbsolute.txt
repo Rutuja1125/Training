@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\bin\Debug\simple_Inheritance.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\bin\Debug\simple_Inheritance.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\bin\Debug\simple_Inheritance.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\obj\Debug\simple_Inheritance.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\obj\Debug\simple_Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\obj\Debug\simple_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\obj\Debug\simple_Inheritance.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\simple_Inheritance\obj\Debug\simple_Inheritance.pdb
