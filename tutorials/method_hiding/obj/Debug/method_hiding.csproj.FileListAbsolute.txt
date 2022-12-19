@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\bin\Debug\method_hiding.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\bin\Debug\method_hiding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\bin\Debug\method_hiding.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\obj\Debug\method_hiding.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\obj\Debug\method_hiding.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\obj\Debug\method_hiding.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\obj\Debug\method_hiding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\method_hiding\obj\Debug\method_hiding.pdb
