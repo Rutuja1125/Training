@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\bin\Debug\inheritance_by_raju.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\bin\Debug\inheritance_by_raju.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\bin\Debug\inheritance_by_raju.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\obj\Debug\inheritance_by_raju.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\obj\Debug\inheritance_by_raju.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\obj\Debug\inheritance_by_raju.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\obj\Debug\inheritance_by_raju.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\inheritance_by_raju\obj\Debug\inheritance_by_raju.pdb
