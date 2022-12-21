@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\bin\Debug\types_of_constructor.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\bin\Debug\types_of_constructor.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\bin\Debug\types_of_constructor.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\obj\Debug\types_of_constructor.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\obj\Debug\types_of_constructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\obj\Debug\types_of_constructor.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\obj\Debug\types_of_constructor.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\types_of_constructor\obj\Debug\types_of_constructor.pdb

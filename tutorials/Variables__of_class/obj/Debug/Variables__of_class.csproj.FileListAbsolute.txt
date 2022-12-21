@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\bin\Debug\Variables__of_class.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\bin\Debug\Variables__of_class.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\bin\Debug\Variables__of_class.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\obj\Debug\Variables__of_class.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\obj\Debug\Variables__of_class.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\obj\Debug\Variables__of_class.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\obj\Debug\Variables__of_class.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Variables__of_class\obj\Debug\Variables__of_class.pdb

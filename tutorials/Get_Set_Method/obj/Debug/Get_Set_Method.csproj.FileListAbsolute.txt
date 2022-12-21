@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\bin\Debug\Get_Set_Method.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\bin\Debug\Get_Set_Method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\bin\Debug\Get_Set_Method.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\obj\Debug\Get_Set_Method.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\obj\Debug\Get_Set_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\obj\Debug\Get_Set_Method.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\obj\Debug\Get_Set_Method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\tutorials\Get_Set_Method\obj\Debug\Get_Set_Method.pdb

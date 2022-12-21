@@ -14,7 +14,7 @@ namespace Inheritance
         public string firstname;
         //static string[] SubMiss = { "A", "B", "C" };
         //public int[] RollNo = { 1, 2, 3 };
-        //float fees = 15000F;
+        float fees = 15000F;
 
         //instance method
         //public void Common()
