@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\bin\Debug\Operator_overloading.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\bin\Debug\Operator_overloading.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\bin\Debug\Operator_overloading.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\obj\Debug\Operator_overloading.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\obj\Debug\Operator_overloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\obj\Debug\Operator_overloading.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\obj\Debug\Operator_overloading.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Operator_overloading\obj\Debug\Operator_overloading.pdb

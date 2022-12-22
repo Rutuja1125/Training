@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\bin\Debug\overriding_vs_hiding.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\bin\Debug\overriding_vs_hiding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\bin\Debug\overriding_vs_hiding.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\obj\Debug\overriding_vs_hiding.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\obj\Debug\overriding_vs_hiding.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\obj\Debug\overriding_vs_hiding.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\obj\Debug\overriding_vs_hiding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overriding_vs_hiding\obj\Debug\overriding_vs_hiding.pdb

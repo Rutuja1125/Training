@@ -1,0 +1,3 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\polymorphism\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache

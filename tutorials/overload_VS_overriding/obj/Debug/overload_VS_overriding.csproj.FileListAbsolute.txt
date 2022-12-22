@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\bin\Debug\overload_VS_overriding.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\bin\Debug\overload_VS_overriding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\bin\Debug\overload_VS_overriding.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\obj\Debug\overload_VS_overriding.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\obj\Debug\overload_VS_overriding.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\obj\Debug\overload_VS_overriding.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\obj\Debug\overload_VS_overriding.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\overload_VS_overriding\obj\Debug\overload_VS_overriding.pdb

@@ -14,6 +14,11 @@ namespace method_overloading
             int Sum = a + b;
             Console.WriteLine("Addition is = " + Sum);
         }
+        public static void Add(float  b, int a)
+        {
+            float Sum = b + a;
+            Console.WriteLine("Addition is = " + Sum);
+        }
         public static void Add(int a, int b,int c) //overloading with different no of parameters
         {
             int Sum = a + b +c;
@@ -25,9 +30,15 @@ namespace method_overloading
             float Sum = a + b ;
             Console.WriteLine("Addition is = " + Sum);
         }
+        // static float Add(int a, float b) //overloading with different no of parameters
+        //{
+        //    float Sum = a + b ; 
+        //    return Sum;
+           
+        //}
         static void Main()
         {
-            Add(2, 4);
+            Add(2, 4); 
             Add(2, 4,6);
             Add(2, 4.567F);
             Console.ReadKey();

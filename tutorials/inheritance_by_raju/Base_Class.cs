@@ -9,7 +9,7 @@ namespace inheritance_by_raju
         public Base_Class(int sal) 
         {
             this.salary = sal;
-            Console.WriteLine("This is base class having salary = " + this.salary);
+            Console.WriteLine(" base class salary = " + this.salary);
         }
         //internal void Bunglow()
         //{

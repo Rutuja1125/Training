@@ -14,13 +14,8 @@ namespace inheritance_by_raju
             this.Child_slary = Child_salary;
             Console.WriteLine("Child class salary = "+this.Child_slary);
         }
-        public void Job()
-        {
-            Console.WriteLine("child class A works in a company");
-        }
-
         static void Main()
-        {           
+        {            
             Derived_ClassA A = new Derived_ClassA(6000);
             Console.ReadKey();
         }
