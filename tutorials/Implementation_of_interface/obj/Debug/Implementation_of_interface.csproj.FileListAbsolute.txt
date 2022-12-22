@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\obj\Debug\Implementation_of_interface.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\obj\Debug\Implementation_of_interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\obj\Debug\Implementation_of_interface.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\bin\Debug\Implementation_of_interface.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\bin\Debug\Implementation_of_interface.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\bin\Debug\Implementation_of_interface.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\obj\Debug\Implementation_of_interface.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Implementation_of_interface\obj\Debug\Implementation_of_interface.pdb

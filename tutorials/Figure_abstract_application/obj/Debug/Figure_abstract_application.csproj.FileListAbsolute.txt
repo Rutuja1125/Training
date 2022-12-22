@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\bin\Debug\Figure_abstract_application.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\bin\Debug\Figure_abstract_application.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\bin\Debug\Figure_abstract_application.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\obj\Debug\Figure_abstract_application.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\obj\Debug\Figure_abstract_application.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\obj\Debug\Figure_abstract_application.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\obj\Debug\Figure_abstract_application.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Figure_abstract_application\obj\Debug\Figure_abstract_application.pdb

@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\obj\Debug\structures.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\obj\Debug\structures.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\obj\Debug\structures.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\bin\Debug\structures.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\bin\Debug\structures.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\bin\Debug\structures.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\obj\Debug\structures.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\structures\obj\Debug\structures.pdb
