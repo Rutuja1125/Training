@@ -5,7 +5,7 @@ namespace Get_set_methods
 {
     internal class Program
     {
-        double Current_score = 33.00;
+        double _Current_score = 33.00; //while defining a property chg the name with _nameofthevariavle and property name with the variable name
 
         //public double ReadValue()
         //{
@@ -18,16 +18,20 @@ namespace Get_set_methods
         public double ScoreProperty
         {
             get
-            { return Current_score; }
+            { return _Current_score; }
             set
             {
-                if(Current_score < value)
-                //{
-                //    Console.WriteLine("sorry,Your score is noty highest score!!");
-                //}
-                Current_score = value;
-                
-               
+                if(_Current_score > value)
+                {
+                    Console.WriteLine("sorry,Your score is not highest score!!");
+                }                   
+                else
+                {
+                    _Current_score = value;
+                }
+                    
+
+
             }
         }
         static void Main(string[] args)
@@ -38,7 +42,7 @@ namespace Get_set_methods
             //p.SetValue(22);
             p.ScoreProperty = 10;//setting the value-->writing 
             double print_radius = p.ScoreProperty;//Get method-->Readonly method
-            Console.Write("Highest score is  " + p.Current_score);
+            Console.Write("Highest score is  " + p._Current_score);
             Console.ReadKey();
         }
     }
