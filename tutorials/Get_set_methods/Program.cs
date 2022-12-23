@@ -5,7 +5,7 @@ namespace Get_set_methods
 {
     internal class Program
     {
-        double Radius = 33.00;
+        double Current_score = 33.00;
 
         //public double ReadValue()
         //{
@@ -15,13 +15,19 @@ namespace Get_set_methods
         //{
         //    Radius = radius;
         //}
-        public double RadiusProperty
+        public double ScoreProperty
         {
             get
-            { return Radius; }
+            { return Current_score; }
             set
             {
-                Radius = value;
+                if(Current_score < value)
+                //{
+                //    Console.WriteLine("sorry,Your score is noty highest score!!");
+                //}
+                Current_score = value;
+                
+               
             }
         }
         static void Main(string[] args)
@@ -30,9 +36,9 @@ namespace Get_set_methods
             //double print_radius = p.ReadValue();//Get method-->Readonly method
             //Console.Write("Readonly value of radius = " + print_radius);
             //p.SetValue(22);
-            p.RadiusProperty = 55.88;//setting the value-->writing 
-            double print_radius = p.RadiusProperty;//Get method-->Readonly method
-            Console.Write("Readonly value of radius = " + print_radius);
+            p.ScoreProperty = 10;//setting the value-->writing 
+            double print_radius = p.ScoreProperty;//Get method-->Readonly method
+            Console.Write("Highest score is  " + p.Current_score);
             Console.ReadKey();
         }
     }
