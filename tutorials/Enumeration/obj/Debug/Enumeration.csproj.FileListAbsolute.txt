@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\bin\Debug\Enumeration.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\bin\Debug\Enumeration.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\bin\Debug\Enumeration.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\obj\Debug\Enumeration.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\obj\Debug\Enumeration.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\obj\Debug\Enumeration.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\obj\Debug\Enumeration.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Enumeration\obj\Debug\Enumeration.pdb

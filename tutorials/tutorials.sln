@@ -61,6 +61,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementation_of_interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structures", "structures\structures.csproj", "{70EB3625-89E6-42D6-9C9C-B86273316CE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumeration", "Enumeration\Enumeration.csproj", "{F158AC22-D978-4AC0-A844-CB43835C7D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Get_set_methods", "Get_set_methods\Get_set_methods.csproj", "{D8BB2830-1E49-4771-8DD3-DDDA8B4A086D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +187,14 @@ Global
 		{70EB3625-89E6-42D6-9C9C-B86273316CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70EB3625-89E6-42D6-9C9C-B86273316CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70EB3625-89E6-42D6-9C9C-B86273316CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F158AC22-D978-4AC0-A844-CB43835C7D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F158AC22-D978-4AC0-A844-CB43835C7D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F158AC22-D978-4AC0-A844-CB43835C7D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F158AC22-D978-4AC0-A844-CB43835C7D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BB2830-1E49-4771-8DD3-DDDA8B4A086D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BB2830-1E49-4771-8DD3-DDDA8B4A086D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BB2830-1E49-4771-8DD3-DDDA8B4A086D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BB2830-1E49-4771-8DD3-DDDA8B4A086D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

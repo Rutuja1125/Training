@@ -22,12 +22,12 @@ namespace Implementation_of_interface
         {
             Console.WriteLine("area os circle = " + (Pi * radius * radius));
         }
-        //static void Main()
-        //{
-        //    figure r = new figure();
-        //    r.Area(33.55,22.5);
-        //    r.Circum(4);
-        //    Console.ReadKey();
-        //}
+        static void Main()
+        {
+            figure r = new figure();
+            r.Area(33.55, 22.5);
+            r.Circum(4);
+            Console.ReadKey();
+        }
     }
 }
