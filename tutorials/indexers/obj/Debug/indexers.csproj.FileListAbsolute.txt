@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\bin\Debug\indexers.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\bin\Debug\indexers.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\bin\Debug\indexers.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\obj\Debug\indexers.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\obj\Debug\indexers.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\obj\Debug\indexers.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\obj\Debug\indexers.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\indexers\obj\Debug\indexers.pdb
