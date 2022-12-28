@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Exception_Handling
 {
     internal class Program
@@ -20,7 +15,7 @@ namespace Exception_Handling
             }
             finally
             {
-                Console.WriteLine("Re-enter inputs ");
+                Console.WriteLine("finally block of code ");
             }
         }
        
@@ -33,7 +28,8 @@ namespace Exception_Handling
                 Console.WriteLine("enter int y = ");
                 int y = Convert.ToInt16(Console.ReadLine());
                 Divide(x,y);
-               
+                Console.ReadKey();
+
 
             }
             catch 

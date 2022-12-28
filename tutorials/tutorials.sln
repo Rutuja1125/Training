@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "indexers", "indexers\indexe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception Handling", "Exception Handling\Exception Handling.csproj", "{05F8CD90-6529-44EC-A331-0DEA5626D8D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationEx", "ApplicationException\ApplicationEx.csproj", "{FD558056-877D-4A16-BFDD-FEA82AA6A5C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{05F8CD90-6529-44EC-A331-0DEA5626D8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05F8CD90-6529-44EC-A331-0DEA5626D8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05F8CD90-6529-44EC-A331-0DEA5626D8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD558056-877D-4A16-BFDD-FEA82AA6A5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD558056-877D-4A16-BFDD-FEA82AA6A5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD558056-877D-4A16-BFDD-FEA82AA6A5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD558056-877D-4A16-BFDD-FEA82AA6A5C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

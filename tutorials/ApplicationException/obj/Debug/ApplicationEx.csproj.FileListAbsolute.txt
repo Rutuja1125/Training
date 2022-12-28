@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\bin\Debug\ApplicationException.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\bin\Debug\ApplicationException.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\bin\Debug\ApplicationException.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\obj\Debug\ApplicationEx.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\obj\Debug\ApplicationEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\obj\Debug\ApplicationEx.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\obj\Debug\ApplicationException.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\ApplicationException\obj\Debug\ApplicationException.pdb
