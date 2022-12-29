@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muldi-dimensional array", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged Arrays", "Jagged Arrays\Jagged Arrays.csproj", "{864FA90A-39C4-428B-B6F5-7444D5683CFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arraylist_program", "arraylist_program\arraylist_program.csproj", "{5A5621B9-6382-44E3-A042-13A33E2F6305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtable_prg", "Hashtable_prg\Hashtable_prg.csproj", "{64D34AEA-0C4B-484D-B90D-E01466B37EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{864FA90A-39C4-428B-B6F5-7444D5683CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{864FA90A-39C4-428B-B6F5-7444D5683CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{864FA90A-39C4-428B-B6F5-7444D5683CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A5621B9-6382-44E3-A042-13A33E2F6305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A5621B9-6382-44E3-A042-13A33E2F6305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A5621B9-6382-44E3-A042-13A33E2F6305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A5621B9-6382-44E3-A042-13A33E2F6305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D34AEA-0C4B-484D-B90D-E01466B37EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D34AEA-0C4B-484D-B90D-E01466B37EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D34AEA-0C4B-484D-B90D-E01466B37EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D34AEA-0C4B-484D-B90D-E01466B37EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\bin\Debug\arraylist_program.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\bin\Debug\arraylist_program.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\bin\Debug\arraylist_program.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\obj\Debug\arraylist_program.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\obj\Debug\arraylist_program.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\obj\Debug\arraylist_program.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\obj\Debug\arraylist_program.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\arraylist_program\obj\Debug\arraylist_program.pdb

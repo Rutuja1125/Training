@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\bin\Debug\Hashtable_prg.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\bin\Debug\Hashtable_prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\bin\Debug\Hashtable_prg.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\obj\Debug\Hashtable_prg.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\obj\Debug\Hashtable_prg.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\obj\Debug\Hashtable_prg.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\obj\Debug\Hashtable_prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Hashtable_prg\obj\Debug\Hashtable_prg.pdb

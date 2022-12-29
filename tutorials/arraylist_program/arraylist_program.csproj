@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AAF6D742-7CE2-476C-8C3C-9B9296917B1D}</ProjectGuid>
+    <ProjectGuid>{5A5621B9-6382-44E3-A042-13A33E2F6305}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>indexers</RootNamespace>
-    <AssemblyName>indexers</AssemblyName>
+    <RootNamespace>arraylist_program</RootNamespace>
+    <AssemblyName>arraylist_program</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Company.cs" />
-    <Compile Include="Employee.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
