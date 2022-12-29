@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\bin\Debug\Muldi-dimensional array.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\bin\Debug\Muldi-dimensional array.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\bin\Debug\Muldi-dimensional array.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\obj\Debug\Muldi-dimensional array.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\obj\Debug\Muldi-dimensional array.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\obj\Debug\Muldi-dimensional array.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\obj\Debug\Muldi-dimensional array.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Muldi-dimensional array\obj\Debug\Muldi-dimensional array.pdb

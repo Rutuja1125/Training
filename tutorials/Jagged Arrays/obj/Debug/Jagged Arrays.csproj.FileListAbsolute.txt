@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\bin\Debug\Jagged Arrays.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\bin\Debug\Jagged Arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\bin\Debug\Jagged Arrays.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\obj\Debug\Jagged Arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Jagged Arrays\obj\Debug\Jagged Arrays.pdb

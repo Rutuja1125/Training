@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\bin\Debug\Arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\bin\Debug\Arrays.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\obj\Debug\Arrays.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Arrays\obj\Debug\Arrays.pdb
