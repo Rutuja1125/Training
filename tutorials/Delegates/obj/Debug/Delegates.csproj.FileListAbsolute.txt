@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\bin\Debug\Delegates.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\bin\Debug\Delegates.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\obj\Debug\Delegates.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\bin\Debug\Anonymous_Method.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\bin\Debug\Anonymous_Method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\bin\Debug\Anonymous_Method.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\obj\Debug\Anonymous_Method.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\obj\Debug\Anonymous_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\obj\Debug\Anonymous_Method.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\obj\Debug\Anonymous_Method.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Anonymous_Method\obj\Debug\Anonymous_Method.pdb

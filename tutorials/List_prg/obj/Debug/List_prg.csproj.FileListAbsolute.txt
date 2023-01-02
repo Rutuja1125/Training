@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\bin\Debug\List_prg.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\bin\Debug\List_prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\bin\Debug\List_prg.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\obj\Debug\List_prg.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\obj\Debug\List_prg.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\obj\Debug\List_prg.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\obj\Debug\List_prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\List_prg\obj\Debug\List_prg.pdb

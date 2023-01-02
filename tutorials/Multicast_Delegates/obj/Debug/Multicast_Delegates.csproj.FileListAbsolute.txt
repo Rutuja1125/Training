@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\bin\Debug\Multicast_Delegates.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\bin\Debug\Multicast_Delegates.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\bin\Debug\Multicast_Delegates.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\obj\Debug\Multicast_Delegates.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\obj\Debug\Multicast_Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\obj\Debug\Multicast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\obj\Debug\Multicast_Delegates.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Multicast_Delegates\obj\Debug\Multicast_Delegates.pdb

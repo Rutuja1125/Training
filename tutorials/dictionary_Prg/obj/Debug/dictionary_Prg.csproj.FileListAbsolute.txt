@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\bin\Debug\dictionary_Prg.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\bin\Debug\dictionary_Prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\bin\Debug\dictionary_Prg.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\obj\Debug\dictionary_Prg.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\obj\Debug\dictionary_Prg.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\obj\Debug\dictionary_Prg.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\obj\Debug\dictionary_Prg.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\dictionary_Prg\obj\Debug\dictionary_Prg.pdb

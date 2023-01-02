@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\bin\Debug\Generic_Collection.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\bin\Debug\Generic_Collection.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\bin\Debug\Generic_Collection.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\obj\Debug\Generic_Collection.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\obj\Debug\Generic_Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\obj\Debug\Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\obj\Debug\Generic_Collection.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generic_Collection\obj\Debug\Generic_Collection.pdb
