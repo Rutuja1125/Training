@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\bin\Debug\LINQ_array_elements.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\bin\Debug\LINQ_array_elements.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\bin\Debug\LINQ_array_elements.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\obj\Debug\LINQ_array_elements.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\obj\Debug\LINQ_array_elements.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\obj\Debug\LINQ_array_elements.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\obj\Debug\LINQ_array_elements.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\LINQ_array_elements\obj\Debug\LINQ_array_elements.pdb

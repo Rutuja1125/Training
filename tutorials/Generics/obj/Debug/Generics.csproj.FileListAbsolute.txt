@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\bin\Debug\Generics.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\bin\Debug\Generics.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\bin\Debug\Generics.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\obj\Debug\Generics.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Generics\obj\Debug\Generics.pdb

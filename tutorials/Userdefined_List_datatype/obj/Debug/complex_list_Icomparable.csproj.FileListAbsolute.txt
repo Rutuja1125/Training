@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\bin\Debug\Userdefined_List_datatype.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\bin\Debug\Userdefined_List_datatype.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\bin\Debug\Userdefined_List_datatype.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\obj\Debug\complex_list_Icomparable.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\obj\Debug\complex_list_Icomparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\obj\Debug\complex_list_Icomparable.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\obj\Debug\Userdefined_List_datatype.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Userdefined_List_datatype\obj\Debug\Userdefined_List_datatype.pdb

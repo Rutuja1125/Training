@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E5E1EA3-8B42-4045-893B-ABE76058A407}</ProjectGuid>
+    <ProjectGuid>{312CE7B5-0D62-4A22-AC7A-5B26165B836F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Userdefined_List_datatype</RootNamespace>
-    <AssemblyName>Userdefined_List_datatype</AssemblyName>
+    <RootNamespace>LINQ_array_elements</RootNamespace>
+    <AssemblyName>LINQ_array_elements</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Band.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

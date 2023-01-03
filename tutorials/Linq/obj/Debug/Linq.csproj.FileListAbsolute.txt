@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\bin\Debug\Linq.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\bin\Debug\Linq.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\bin\Debug\Linq.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\obj\Debug\Linq.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Linq\obj\Debug\Linq.pdb
