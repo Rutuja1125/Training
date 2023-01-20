@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Demo</name>
+    </assembly>
+    <members>
+        <member name="M:Demo.Controllers.EmpsController.GetEmp(System.Int32)">
+            <summary>
+            Get an author by his/her id 
+            </summary>
+            <param name="id"> The id of author you want to get</param>
+            <returns>An author with id, name fields</returns>
+        </member>
+        <member name="T:Demo.ProgramExtensions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Demo.ProgramExtensions.AddDbContext(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="builder"></param>
+            <exception cref="T:System.InvalidOperationException"></exception>
+        </member>
+        <member name="M:Demo.ProgramExtensions.AddSwaggerDoccumentation(Microsoft.AspNetCore.Builder.WebApplicationBuilder)">
+            <summary>
+            
+            </summary>
+            <param name="builder"></param>
+        </member>
+    </members>
+</doc>

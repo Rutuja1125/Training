@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\bin\Debug\Demo_Ienumerable.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\bin\Debug\Demo_Ienumerable.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\bin\Debug\Demo_Ienumerable.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\obj\Debug\Demo_Ienumerable.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\obj\Debug\Demo_Ienumerable.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\obj\Debug\Demo_Ienumerable.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\obj\Debug\Demo_Ienumerable.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Tutorials\Demo_Ienumerable\obj\Debug\Demo_Ienumerable.pdb
