@@ -61,7 +61,11 @@ namespace Demo.Controllers
         /// </summary>
         /// <param name="id"></param>
         /// <param name="office"></param>
-        /// <returns></returns>
+        /// <returns>Returns ActionResult of type office</returns>
+        /// <remarks>
+        /// Sample request (this request updates the author's location)
+        /// </remarks>
+
         // PUT: api/Offices/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
@@ -93,18 +97,18 @@ namespace Demo.Controllers
             return NoContent();
         }
         /// <summary>
-        /// This is patch method in office class
+        /// This is post method in office class
         /// </summary>
         /// <param name="office"></param>
         /// <param name="id"></param>
         /// <returns></returns>
        
-        [HttpPatch("{id}")]
-        public async Task<IActionResult> UpdateOfficePatch([FromBody] JsonPatchDocument office, [FromRoute] int id)
-        {
-            await _context.AddRangeAsync(office);
-            return Ok(office);
-        }
+        //[HttpPatch("{id}")]
+        //public async Task<IActionResult> UpdateOfficePatch([FromRoute] int id,[FromBody] JsonPatchDocument office)
+        //{
+        //    var result = await _context.AddRangeAsync(office);
+        //    return Ok(result);
+        //}
        
         //POST: api/Offices
         //To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
