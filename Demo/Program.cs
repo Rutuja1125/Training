@@ -1,4 +1,5 @@
 ﻿using Demo;
+using Microsoft.AspNetCore.Mvc;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
@@ -8,7 +9,15 @@ builder.AddDbContext();
 
 builder.Services.AddControllers().AddNewtonsoftJson();
 builder.Services.AddEndpointsApiExplorer();
-
+builder.Services.AddMvc(setupAction =>
+{
+    setupAction.Filters.Add(
+        new ProducesResponseTypeAttribute(StatusCodes.Status400BadRequest) );
+    setupAction.Filters.Add(
+        new ProducesResponseTypeAttribute(StatusCodes.Status406NotAcceptable) );
+    setupAction.Filters.Add(
+        new ProducesResponseTypeAttribute(StatusCodes.Status500InternalServerError) );
+});
 builder.AddSwaggerDoccumentation();
 
 var app = builder.Build();

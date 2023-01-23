@@ -57,7 +57,6 @@ namespace Demo.Data
             //    base.OnModelCreating(modelBuilder);
         }
 
-
-
-        }
+     
+    }
 }

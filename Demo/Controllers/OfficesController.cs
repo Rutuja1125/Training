@@ -44,9 +44,11 @@ namespace Demo.Controllers
         }
 
         // GET: api/Offices/5
+       
         [HttpGet("{id}")]
         public async Task<IActionResult> GetDatabyId(int id)
         {
+         
             var result = await _context.Offices.Where(x => x.Id == id).Select(x => new OfficeDetailDto() 
             {
                 Id = x.Id,
@@ -69,6 +71,7 @@ namespace Demo.Controllers
 
         // PUT: api/Offices/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+      
         [HttpPut("{id}")]
         public async Task<IActionResult> PutOffice([FromRoute] int id,[FromBody] Office office)
         {
