@@ -10,6 +10,7 @@ using Demo.Models;
 
 namespace Demo.Controllers
 {
+#pragma warning disable CS1591
     [Route("api/Emps")]
     [ApiController]
     public class EmpsController : ControllerBase

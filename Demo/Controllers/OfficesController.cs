@@ -14,6 +14,7 @@ using System.Runtime.InteropServices;
 
 namespace Demo.Controllers
 {
+#pragma warning disable CS1591
     [Route("api/office")]
     [ApiController]
     public class OfficesController : ControllerBase
@@ -63,7 +64,7 @@ namespace Demo.Controllers
         /// <param name="office"></param>
         /// <returns>Returns ActionResult of type office</returns>
         /// <remarks>
-        /// Sample request (this request updates the author's location)
+        /// Sample request (this request updates the author's location)\
         /// </remarks>
 
         // PUT: api/Offices/5

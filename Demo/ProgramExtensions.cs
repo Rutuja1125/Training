@@ -39,7 +39,7 @@ namespace Demo
             setupAction.SwaggerDoc("DemoOpenAPISpecification", new Microsoft.OpenApi.Models.OpenApiInfo()
             {
                 Title = "Demo API",
-
+                Description ="This app shows Employee and Office details."
             });
             var xmlfile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
             var xmlfullpath = Path.Combine(AppContext.BaseDirectory, xmlfile);
