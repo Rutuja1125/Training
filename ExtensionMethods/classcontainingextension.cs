@@ -14,13 +14,6 @@ namespace ExtensionMethods
             Console.WriteLine("This is Extension method 1");
         }
     }
-    public class DeclareClass
-    {
-        public static void Main()
-        {
-            ClassTobeExtended extend = new ClassTobeExtended();
-            extend.ExtensionMethod1();
-        }
-    }
+   
 
 }
