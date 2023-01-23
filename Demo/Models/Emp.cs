@@ -1,10 +1,12 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
 namespace Demo.Models
-{
+{/// <summary>
+/// This is Emp class
+/// </summary>
     public class Emp
     {/// <summary>
-    /// This is Id  Employee class
+    /// This is Employee Id class
     /// </summary>
         [Key]
         public int Id { get; set; } //Guid is unique
@@ -13,7 +15,7 @@ namespace Demo.Models
         /// This is Name of Employee
         /// </summary>
         [Required]
-        public string Name { get; set; }
+        public string? Name { get; set; } 
         
     }
 }

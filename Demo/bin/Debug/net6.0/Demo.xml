@@ -11,9 +11,14 @@
             <param name="id"> The id of author you want to get</param>
             <returns>An author with id, name fields</returns>
         </member>
+        <member name="T:Demo.Models.Emp">
+            <summary>
+            This is Emp class
+            </summary>
+        </member>
         <member name="P:Demo.Models.Emp.Id">
             <summary>
-            This is Id  Employee class
+            This is Employee Id class
             </summary>
         </member>
         <member name="P:Demo.Models.Emp.Name">

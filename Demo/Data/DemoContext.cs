@@ -24,7 +24,7 @@ namespace Demo.Data
                 new Emp()
                 {
                     Id = 1,
-                    Name = "ABC"
+                    Name ="ABC"
                 }, new Emp()
                 {
                     Id = 2,
