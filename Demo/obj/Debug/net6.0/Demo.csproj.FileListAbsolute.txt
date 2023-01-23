@@ -272,3 +272,6 @@ C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\Demo.xml
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\obj\Debug\net6.0\Demo.xml
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

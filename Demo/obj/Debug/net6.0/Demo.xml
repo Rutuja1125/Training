@@ -11,6 +11,33 @@
             <param name="id"> The id of author you want to get</param>
             <returns>An author with id, name fields</returns>
         </member>
+        <member name="M:Demo.Controllers.OfficesController.PutOffice(System.Int32,Demo.Models.Office)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <param name="office"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Demo.Controllers.OfficesController.UpdateOfficePatch(Microsoft.AspNetCore.JsonPatch.JsonPatchDocument,System.Int32)">
+            <summary>
+            This is patch method in office class
+            </summary>
+            <param name="office"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Demo.Data.DemoContext">
+            <summary>
+            This is DemoContext class derived from DbContext class
+            </summary>
+        </member>
+        <member name="M:Demo.Data.DemoContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Demo.Data.DemoContext})">
+            <summary>
+            
+            </summary>
+            <param name="options"></param>
+        </member>
         <member name="T:Demo.Models.Emp">
             <summary>
             This is Emp class
@@ -24,6 +51,31 @@
         <member name="P:Demo.Models.Emp.Name">
             <summary>
             This is Name of Employee
+            </summary>
+        </member>
+        <member name="T:Demo.Models.Office">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.Models.Office.Id">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.Models.Office.Location">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.Models.Office.Employee">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Demo.Models.Office.EmpId">
+            <summary>
+            
             </summary>
         </member>
         <member name="T:Demo.ProgramExtensions">

@@ -6,11 +6,17 @@ using Microsoft.EntityFrameworkCore;
 using Demo.Models;
 
 namespace Demo.Data
-{
+{/// <summary>
+/// This is DemoContext class derived from DbContext class
+/// </summary>
     public class DemoContext : DbContext
     {
         internal readonly object Office;
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="options"></param>
         public DemoContext(DbContextOptions<DemoContext> options)
             : base(options)
         {

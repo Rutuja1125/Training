@@ -9,6 +9,8 @@ using Demo.Data;
 using Demo.Models;
 using Microsoft.AspNetCore.Mvc.TagHelpers;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.AspNetCore.JsonPatch;
+using System.Runtime.InteropServices;
 
 namespace Demo.Controllers
 {
@@ -54,11 +56,16 @@ namespace Demo.Controllers
             return Ok(result);
         }
 
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="office"></param>
+        /// <returns></returns>
         // PUT: api/Offices/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutOffice(int id, Office office)
+        public async Task<IActionResult> PutOffice([FromRoute] int id,[FromBody] Office office)
         {
             if (id != office.Id)
             {
@@ -85,9 +92,22 @@ namespace Demo.Controllers
 
             return NoContent();
         }
-
-        // POST: api/Offices
-        // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
+        /// <summary>
+        /// This is patch method in office class
+        /// </summary>
+        /// <param name="office"></param>
+        /// <param name="id"></param>
+        /// <returns></returns>
+       
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> UpdateOfficePatch([FromBody] JsonPatchDocument office, [FromRoute] int id)
+        {
+            await _context.AddRangeAsync(office);
+            return Ok(office);
+        }
+       
+        //POST: api/Offices
+        //To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Office>> PostOffice(Office office)
         {
