@@ -12,7 +12,9 @@ namespace Demo.Controllers
 {
 #pragma warning disable CS1591
     [Route("api/Emps")]
-    [ApiController]
+    [ApiController] 
+    //Automatically adds status code
+    [ApiConventionType(typeof(DefaultApiConventions))]
     public class EmpsController : ControllerBase
     {
         private readonly DemoContext _context;

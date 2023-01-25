@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\bin\Debug\ReadDatafromfile.exe.config
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\bin\Debug\ReadDatafromfile.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\bin\Debug\ReadDatafromfile.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\obj\Debug\ReadDatafromfile.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\obj\Debug\ReadDatafromfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\obj\Debug\ReadDatafromfile.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\obj\Debug\ReadDatafromfile.exe
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\ReadDatafromfile\obj\Debug\ReadDatafromfile.pdb
