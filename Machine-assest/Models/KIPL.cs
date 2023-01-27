@@ -1,8 +1,12 @@
-﻿namespace Machine_assest.Models
+﻿using System.Data;
+
+namespace Machine_assest.Models
 {
     public class Klingelnberg
     {
-        public string? Machinename, Assest, Series;
+        private string? Machinename { get; }
+        private string? Assetname { get; }
+        private string? Series { get; }
 
     }
 }

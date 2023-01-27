@@ -12,7 +12,7 @@ using System.ComponentModel.Design;
 
 namespace ReadDatafromfile
 {
-    public class Program
+    public  class Program
     {
 
         public static void Main()
@@ -51,8 +51,13 @@ namespace ReadDatafromfile
             {
                 Console.WriteLine(row);
             }
+            //creating list of unique Assetnames
+
+            //create an empty list
             List<string> AssetNames = new List<string>();
+            //Query selects all assetnames from column1
             var result3 = from Data in dt.AsEnumerable() select Data.Field<string>("Column1");
+            //check whether each element result3 present in list. If element is not present then add in list
             foreach (var row in result3)
             {
                 if (!AssetNames.Contains(row))
@@ -60,14 +65,24 @@ namespace ReadDatafromfile
                     AssetNames.Add(row);
                 }
             }
+            //Take each element from list and run the query
+            
+            List<string> MachineswithLatestseries = new List<string>();
+
             foreach (var item in AssetNames)
             {
                 var result2 = from Data in dt.AsEnumerable() where Data.Field<string>("Column1") == item orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
+
+                string firstelement = result2.First();
+                MachineswithLatestseries.Add(firstelement);
+
             }
-            //if key present in dictionary increase the value by 1 else create a new key and assign count of value as 1
+            var display = MachineswithLatestseries.Max();
+            Console.WriteLine("Machine having all of the latest series = " + display);
             Console.ReadKey();
         }
 
 
     }
 }
+
