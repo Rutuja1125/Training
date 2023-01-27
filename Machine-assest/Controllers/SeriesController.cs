@@ -42,10 +42,12 @@ namespace Machine_assest.Controllers
                 string firstelement = MachinewithLatestSeries.First();
                 MachineswithLatestseries.Add(firstelement);
             }
-            string? MachinehavingallLatestSeries = MachineswithLatestseries.Max();                
-           return MachinehavingallLatestSeries;
-
-            
+            string? MachinehavingallLatestSeries = MachineswithLatestseries.Max();
+            if(MachinehavingallLatestSeries == null)
+            {
+                throw new ArgumentNullException(nameof(MachinehavingallLatestSeries));
+            }
+           return MachinehavingallLatestSeries;           
         }
     }
 }
