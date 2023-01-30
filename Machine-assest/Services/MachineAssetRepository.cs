@@ -48,13 +48,13 @@ namespace Machine_assest.Services
 
         }
         public string MachineWithAllLatestSeries()
-        { //create an empty list
+        { //create an empty list AssetNames
             List<string> AssetNames = new List<string>();
 
             //Query selects all assetnames from column1
             var AssestsFromColumn1 = from Data in _dataTable.AsEnumerable() select Data.Field<string>("Column1");
 
-            //check whether each element result3 present in list. If element is not present then add in list
+            //check whether each element from AssestsFromColumn1 present in list AssetNames. If element is not present then add in list AssetNames
             foreach (var asset in AssestsFromColumn1)
             {
                 if (!AssetNames.Contains(asset))
@@ -62,16 +62,21 @@ namespace Machine_assest.Services
                     AssetNames.Add(asset);
                 }
             }
-
-            //Take each element from list and run the query
+            //Create a emtp list to hold machine types of specific series
             List<string>? MachineswithLatestseries = new List<string>();
+
+            //Take each element from list AssetNames and run the query
             foreach (var singleasset in AssetNames)
             {
-                var MachinewithLatestSeries = from Data in _dataTable.AsEnumerable() where Data.Field<string>("Column1") == singleasset orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
+                //query will provide machine names with latest series in descending order
+                var Latestseriesmachine = from Data in _dataTable.AsEnumerable() where Data.Field<string>("Column1") == singleasset orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
 
-                string firstelement = MachinewithLatestSeries.First();
+                //First element from Latestseriesmachine will have latest series
+                string firstelement = Latestseriesmachine.First();
+                //Add machine name having latest series to list
                 MachineswithLatestseries.Add(firstelement);
             }
+            //Maximum occurrence of machine type in list
             string? MachinehavingallLatestSeries = MachineswithLatestseries.Max();
             if (MachinehavingallLatestSeries == null)
             {
