@@ -30,3 +30,5 @@ C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\refi
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\Machine-assest.pdb
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\Machine-assest.genruntimeconfig.cache
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\ref\Machine-assest.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\Machine-assest.xml
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\Machine-assest.xml

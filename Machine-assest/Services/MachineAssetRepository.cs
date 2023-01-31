@@ -3,13 +3,30 @@ using System.Collections;
 
 namespace Machine_assest.Services
 {
+    /// <summary>
+    /// Defining methods in MachineAssetRepository
+    /// </summary>
     public class MachineAssetRepository :IMachineAssetRepository
-    {            
+    {
+        /// <summary>
+        /// Datatable field _dataTable
+        /// </summary>
+        /// 
         public readonly DataTable _dataTable;
+
+        /// <summary>
+        /// constructor of class MachineAssetRepository
+        /// </summary>
+        /// 
         public MachineAssetRepository()
         {           
             _dataTable = CreateDataTable();
         }
+
+        /// <summary>
+        /// Creates a datatable dt and stores data from file.txt in dt in column format.
+        /// </summary>
+        /// <returns></returns>
         public DataTable CreateDataTable()
         {
             DataTable dt = new DataTable("Datafromtxtfile");
@@ -33,6 +50,12 @@ namespace Machine_assest.Services
 
             return dt;
         }
+
+        /// <summary>
+        ///  Get a list of machine names for entered asset name.
+        /// </summary>
+        /// <param name="Assetname"> Asset name of the machine you want to get</param>
+        /// <returns>list of machine names for entered asset name. </returns>
         public IEnumerable GetListOfMachines(string Assetname)
         {
             var Machinelist = from Datafromtxtfile in _dataTable.AsEnumerable() where Datafromtxtfile.Field<string>("Column1") == Assetname select Datafromtxtfile.Field<string>("Column0");
@@ -40,6 +63,12 @@ namespace Machine_assest.Services
             return Machinelist;
 
         }
+
+        /// <summary>
+        ///  Get asset name by machine name
+        /// </summary>
+        /// <param name="Machinename"> Machine name of asset you want to get</param>
+        /// <returns>list of asset names for entered machine name. </returns>
         public IEnumerable GetListOfAssets(string Machinename)
         {
             var Assestlist = from Datafromtxtfile in _dataTable.AsEnumerable() where Datafromtxtfile.Field<string>("Column0") == Machinename.ToString() select Datafromtxtfile.Field<string>("Column1");
@@ -47,6 +76,12 @@ namespace Machine_assest.Services
             return Assestlist;
 
         }
+
+        /// <summary>
+        ///  Get machine name having latest series
+        /// </summary>
+        /// <returns>Machine name with maximum latest series</returns>
+        /// <exception cref="ArgumentNullException"> </exception>
         public string MachineWithAllLatestSeries()
         { //create an empty list AssetNames
             List<string> AssetNames = new List<string>();

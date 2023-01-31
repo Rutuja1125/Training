@@ -4,18 +4,31 @@ using Machine_assest.Services;
 
 namespace Machine_assest.Controllers
 {
+    /// <summary>
+    /// MachineAssetController contains method for 
+    /// </summary>
     [Route("api/MachineAsset")]
-    [ApiController]
+    [ApiController]  
     public class MachineAssetController : ControllerBase
     {
+        /// <summary>
+        /// Instance of Interface IMachineAssetRepository
+        /// </summary>
         public readonly IMachineAssetRepository _machineAssetRepository;
-        public readonly DataTable _dataTable;
+        /// <summary>
+        /// Assign interface instance _machineAssetRepository which is a class variable to a parameter databaseService
+        /// </summary>
+        /// <param name="databaseService"></param>
         public MachineAssetController(IMachineAssetRepository databaseService)
         {
             _machineAssetRepository = databaseService;
-            _dataTable = _machineAssetRepository.CreateDataTable();
+         
         }
-
+        /// <summary>
+        /// Get machine name by asset name 
+        /// </summary>
+        /// <param name="Assetname">Asset name of the machine you want to get</param>
+        /// <returns>list of machine names for entered asset name.</returns>
         [HttpGet("asset-name/{Assetname}")]
         public IActionResult GetListOfMachines(string Assetname)
         {
@@ -23,12 +36,22 @@ namespace Machine_assest.Controllers
             return Ok(assetFromRepo);
         }
 
-        [HttpGet("machine-name/{Machinename}")]
+        /// <summary>
+        /// Get asset name by machine name
+        /// </summary>
+        /// <param name="Machinename">Machine name of asset you want to get</param>
+        /// <returns>list of asset names for entered machine name.</returns>
+        [HttpGet("machine-name/{Machinename}")]        
         public IActionResult GetListOfAssets(string Machinename)
         {
             var machineFromRepo = _machineAssetRepository.GetListOfAssets(Machinename);
             return Ok(machineFromRepo);
         }
+
+        /// <summary>
+        /// Get machine name having latest series
+        /// </summary>
+        /// <returns>Machine name with maximum latest series</returns>
         [HttpGet]
         public string MachineWithAllLatestSeries()
         {
