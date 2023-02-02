@@ -104,10 +104,10 @@ namespace Machine_assest.Services
             foreach (var singleasset in AssetNames)
             {
                 //query will provide machine names with latest series in descending order
-                var Latestseriesmachine = from Data in _dataTable.AsEnumerable() where Data.Field<string>("Column1") == singleasset orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
+                var latestseriesmachine = from Data in _dataTable.AsEnumerable() where Data.Field<string>("Column1") == singleasset orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
 
                 //First element from Latestseriesmachine will have latest series
-                string firstelement = Latestseriesmachine.First();
+                string firstelement = latestseriesmachine.First();
                 //Add machine name having latest series to list
                 MachineswithLatestseries.Add(firstelement);
             }
