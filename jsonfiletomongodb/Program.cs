@@ -40,6 +40,8 @@ namespace jsonfiletomongodb
             var collection = database.GetCollection<BsonDocument>("information");
             collection.InsertMany(check);
             var result = collection.Find(new BsonDocument()).ToList();
+            //var result = collection.Find(new BsonDocument()).ToCursor();
+
             foreach (var document1 in result)
             {
                 Console.WriteLine(document1.ToJson());

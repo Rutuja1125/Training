@@ -14,11 +14,6 @@
             Instance of Interface IMachineAssetRepository
             </summary>
         </member>
-        <member name="F:Machine_assest.Controllers.MachineAssetController._dataTable">
-            <summary>
-            Instance of DataTable
-            </summary>
-        </member>
         <member name="M:Machine_assest.Controllers.MachineAssetController.#ctor(Machine_assest.Services.IMachineAssetRepository)">
             <summary>
             Assign interface instance _machineAssetRepository which is a class variable to a parameter databaseService
