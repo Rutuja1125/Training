@@ -1,12 +1,16 @@
 ﻿using System.Data;
 using System.Collections;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using SharpCompress.Common;
+using System.Collections.Generic;
 
 namespace Machine_assest.Services
 {
     /// <summary>
     /// Defining methods in MachineAssetRepository
     /// </summary>
-    public class MachineAssetRepository :IMachineAssetRepository
+    public class MachineAssetRepository : IMachineAssetRepository
     {
         /// <summary>
         /// Datatable field _dataTable
@@ -15,40 +19,64 @@ namespace Machine_assest.Services
         public readonly DataTable _dataTable;
 
         /// <summary>
-        /// constructor of class MachineAssetRepository
+        /// constructor of class MachineAssetRepository containing return value of CreateDatatable()
         /// </summary>
         /// 
         public MachineAssetRepository()
-        {           
+        {
             _dataTable = CreateDataTable();
         }
 
         /// <summary>
-        /// Creates a datatable dt and stores data from file.txt in dt in column format.
+        /// Grabs txt data ,stores in mongodb and creates datatable.
         /// </summary>
-        /// <returns></returns>
         public DataTable CreateDataTable()
         {
-            DataTable dt = new DataTable("Datafromtxtfile");
-
-            TextReader Singlelinefromfile = System.IO.File.OpenText(@"C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\Resource\file.txt");
-
-            string? LineInFile;
-            while ((LineInFile = Singlelinefromfile.ReadLine()) != null)
+            string txtFilePath = @"C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\Resource\file.txt";
+            MongoClient client = new MongoClient("mongodb://localhost:27017");
+            var database = client.GetDatabase("Machineasset");
+            var collection = database.GetCollection<BsonDocument>("information");
+            long countOfcollection = collection.CountDocuments(new BsonDocument());
+            string[] lines = System.IO.File.ReadAllLines(txtFilePath);
+            List<BsonDocument> listOfBsonDoc = new List<BsonDocument>();
+            if (countOfcollection < lines.Count())
             {
-                string[] FileContent = LineInFile.Split(',');
-                if (dt.Columns.Count == 0)
+                foreach (string line in lines)
                 {
-                    for (int NoofColumn = 0; NoofColumn < FileContent.Length; NoofColumn++)
-                    {
-                        dt.Columns.Add(new DataColumn("Column" + NoofColumn, typeof(string)));
-                    }
-                }
-                dt.Rows.Add(FileContent);
+                    string[] parts = line.Split(',');
+                    listOfBsonDoc.Add(new BsonDocument
+            {
+                { "Machine", parts[0] },
+                { "Asset", parts[1] },
+               {"Series", parts[2] }
+            });
+
+                }             
+                collection.InsertMany(listOfBsonDoc);
 
             }
 
+            List<BsonDocument> retrieveBsonDoc = collection.Find(new BsonDocument()).ToList();
+
+            BsonDocument firstDocument = retrieveBsonDoc[0];
+            DataTable dt = new DataTable("Datafromdb");
+            foreach (BsonElement element in firstDocument)
+            {
+                dt.Columns.Add(element.Name);
+            }
+
+            foreach (BsonDocument singledoc in retrieveBsonDoc)
+            {
+                var row = dt.NewRow();
+                foreach (BsonElement singlecollection in singledoc)
+                {
+                    row[singlecollection.Name] = singlecollection.Value;
+                }
+                dt.Rows.Add(row);
+            }
+
             return dt;
+
         }
 
         /// <summary>
@@ -58,7 +86,7 @@ namespace Machine_assest.Services
         /// <returns>list of machine names for entered asset name. </returns>
         public IEnumerable GetListOfMachines(string Assetname)
         {
-            var Machinelist = from Datafromtxtfile in _dataTable.AsEnumerable() where Datafromtxtfile.Field<string>("Column1") == Assetname select Datafromtxtfile.Field<string>("Column0");
+            var Machinelist = from Datafromdb in _dataTable.AsEnumerable() where Datafromdb.Field<string>("Asset") == Assetname select Datafromdb.Field<string>("Machine");
 
             return Machinelist;
 
@@ -71,7 +99,7 @@ namespace Machine_assest.Services
         /// <returns>list of asset names for entered machine name. </returns>
         public IEnumerable GetListOfAssets(string Machinename)
         {
-            var Assestlist = from Datafromtxtfile in _dataTable.AsEnumerable() where Datafromtxtfile.Field<string>("Column0") == Machinename.ToString() select Datafromtxtfile.Field<string>("Column1");
+            var Assestlist = from Datafromdb in _dataTable.AsEnumerable() where Datafromdb.Field<string>("Machine") == Machinename.ToString() select Datafromdb.Field<string>("Asset");
 
             return Assestlist;
 
@@ -87,7 +115,7 @@ namespace Machine_assest.Services
             List<string> AssetNames = new List<string>();
 
             //Query selects all assetnames from column1
-            var AssestsFromColumn1 = from Data in _dataTable.AsEnumerable() select Data.Field<string>("Column1");
+            var AssestsFromColumn1 = from Datafromdb in _dataTable.AsEnumerable() select Datafromdb.Field<string>("Asset");
 
             //check whether each element from AssestsFromColumn1 present in list AssetNames. If element is not present then add in list AssetNames
             foreach (var asset in AssestsFromColumn1)
@@ -104,7 +132,7 @@ namespace Machine_assest.Services
             foreach (var singleasset in AssetNames)
             {
                 //query will provide machine names with latest series in descending order
-                var latestseriesmachine = from Data in _dataTable.AsEnumerable() where Data.Field<string>("Column1") == singleasset orderby Data.Field<string>("Column2") descending select Data.Field<string>("Column0");
+                var latestseriesmachine = from Datafromdb in _dataTable.AsEnumerable() where Datafromdb.Field<string>("Asset") == singleasset orderby Datafromdb.Field<string>("Series") descending select Datafromdb.Field<string>("Machine");
 
                 //First element from Latestseriesmachine will have latest series
                 string firstelement = latestseriesmachine.First();

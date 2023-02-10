@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.AssemblyInfoInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.AssemblyInfo.cs
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.RazorAssemblyInfo.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\obj\Debug\net6.0\Machine-Asset-UI.RazorAssemblyInfo.cs

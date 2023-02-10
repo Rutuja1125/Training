@@ -1,0 +1,12 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\bin\Debug\net6.0\Demo.DataModels.deps.json
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\bin\Debug\net6.0\Demo.DataModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\bin\Debug\net6.0\Demo.DataModels.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.AssemblyInfoInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.AssemblyInfo.cs
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\refint\Demo.DataModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\Demo.DataModels.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Demo.DataModels\obj\Debug\net6.0\ref\Demo.DataModels.dll

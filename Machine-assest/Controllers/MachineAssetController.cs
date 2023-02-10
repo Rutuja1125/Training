@@ -7,7 +7,7 @@ namespace Machine_assest.Controllers
     /// <summary>
     /// MachineAssetController contains method for 
     /// </summary>
-    [Route("api/MachineAsset")]
+    [Route("api/")]
     [ApiController]  
     public class MachineAssetController : ControllerBase
     {
@@ -29,7 +29,7 @@ namespace Machine_assest.Controllers
         /// </summary>
         /// <param name="Assetname">Asset name of the machine you want to get</param>
         /// <returns>list of machine names for entered asset name.</returns>
-        [HttpGet("asset-name/{Assetname}")]
+        [HttpGet("Machines/{Assetname}")]
         public IActionResult GetListOfMachines(string Assetname)
         {
             var assetFromRepo = _machineAssetRepository.GetListOfMachines(Assetname);
@@ -41,7 +41,7 @@ namespace Machine_assest.Controllers
         /// </summary>
         /// <param name="Machinename">Machine name of asset you want to get</param>
         /// <returns>list of asset names for entered machine name.</returns>
-        [HttpGet("machine-name/{Machinename}")]        
+        [HttpGet("Assets/{Machinename}")]        
         public IActionResult GetListOfAssets(string Machinename)
         {
             var machineFromRepo = _machineAssetRepository.GetListOfAssets(Machinename);
@@ -52,7 +52,7 @@ namespace Machine_assest.Controllers
         /// Get machine name having latest series
         /// </summary>
         /// <returns>Machine name with maximum latest series</returns>
-        [HttpGet]
+        [HttpPost()]
         public string MachineWithAllLatestSeries()
         {
             var lateseriesFromRepo = _machineAssetRepository.MachineWithAllLatestSeries();

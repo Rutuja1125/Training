@@ -32,3 +32,16 @@ C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\Mach
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\ref\Machine-assest.dll
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\Machine-assest.xml
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\obj\Debug\net6.0\Machine-assest.xml
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\DnsClient.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\Snappier.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\Machine-assest\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll

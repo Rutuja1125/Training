@@ -89,15 +89,14 @@
         </member>
         <member name="M:Machine_assest.Services.MachineAssetRepository.#ctor">
             <summary>
-            constructor of class MachineAssetRepository
+            constructor of class MachineAssetRepository containing return value of CreateDatatable()
             </summary>
             
         </member>
         <member name="M:Machine_assest.Services.MachineAssetRepository.CreateDataTable">
             <summary>
-            Creates a datatable dt and stores data from file.txt in dt in column format.
+            Grabs txt data ,stores in mongodb and creates datatable.
             </summary>
-            <returns></returns>
         </member>
         <member name="M:Machine_assest.Services.MachineAssetRepository.GetListOfMachines(System.String)">
             <summary>

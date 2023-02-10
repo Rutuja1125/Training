@@ -10,6 +10,7 @@ using System.Runtime.CompilerServices;
 using MongoDB.Bson;
 using System.Collections.ObjectModel;
 using MongoDB.Bson.Serialization;
+using System.Data;
 
 namespace jsonfiletomongodb
 {
@@ -40,11 +41,22 @@ namespace jsonfiletomongodb
             var collection = database.GetCollection<BsonDocument>("information");
             collection.InsertMany(check);
             var result = collection.Find(new BsonDocument()).ToList();
-            //var result = collection.Find(new BsonDocument()).ToCursor();
+    
+           DataTable dt = new DataTable();
 
-            foreach (var document1 in result)
+            var firstDocument = result[0];
+            foreach (var element in firstDocument)
             {
-                Console.WriteLine(document1.ToJson());
+                dt.Columns.Add(element.Name);
+            }
+            foreach (var item in result)
+            {
+                var row = dt.NewRow();
+                foreach (var element in item)
+                {
+                    row[element.Name] = element.Value;
+                }
+                dt.Rows.Add(row);
             }
             Console.ReadKey();
         }
