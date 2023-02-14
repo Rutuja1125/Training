@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GradeBook",
+    "\\GradeBook\\GradeBook",
+    "\\GradeBook\\GradeBook\\GradeBooks",
+    "\\tutorials",
+    "\\tutorials\\Demo_Ienumerable"
   ],
-  "SelectedNode": "\\tutorials.sln",
+  "SelectedNode": "\\GradeBook\\GradeBook\\GradeBooks\\RankedGradeBook.cs",
   "PreviewInSolutionExplorer": false
 }
