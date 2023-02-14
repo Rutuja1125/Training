@@ -52,7 +52,7 @@ namespace Machine_assest.Controllers
         /// Get machine name having latest series
         /// </summary>
         /// <returns>Machine name with maximum latest series</returns>
-        [HttpPost()]
+        [HttpGet("Series")]
         public string MachineWithAllLatestSeries()
         {
             var lateseriesFromRepo = _machineAssetRepository.MachineWithAllLatestSeries();

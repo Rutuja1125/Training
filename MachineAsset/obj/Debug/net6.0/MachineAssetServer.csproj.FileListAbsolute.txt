@@ -1,0 +1,8 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.AssemblyInfoInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.AssemblyInfo.cs
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.RazorAssemblyInfo.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\MachineAsset\obj\Debug\net6.0\MachineAssetServer.RazorAssemblyInfo.cs

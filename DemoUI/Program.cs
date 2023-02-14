@@ -11,7 +11,7 @@ builder.Services.AddServerSideBlazor();
 builder.Services.AddHttpClient<IProductServices, ProductService>
     (client =>
     {
-        client.BaseAddress = new Uri("https://localhost:7274/");
+        client.BaseAddress = new Uri("http://localhost:5107");
 
     });
    

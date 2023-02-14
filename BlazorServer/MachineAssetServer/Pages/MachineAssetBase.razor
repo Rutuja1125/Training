@@ -1,0 +1,73 @@
+﻿@page "/MachineAsset"
+@using MachineAssetServer.Services;
+@using MachineAssetServer.Pages;
+@using Machine_assest.Models;
+@inject IMachineAsset _objmachineasset
+
+<PageTitle>MachineAsset UI</PageTitle>
+<h1> Machine Asset UI </h1>
+<table border="1">
+    <tr>
+        <td>
+            <div>
+    <input type="text" placeholder="Asset name" @bind-value="@assetname" />
+    <button @onclick="GetMachineName">Get Machine Names</button>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div>
+    <input type="text" placeholder="Machine name" @bind-value="@Machinename" />
+    <button @onclick="GetAssetName">Get Asset Names</button>
+</div>
+        </td>
+        </tr>
+        
+    <tr>
+       
+        <td >
+<div> 
+    <button @onclick="GetLatestseriesMachine">Get Asset Names</button>
+</div>
+        </td>
+    </tr>
+</table>
+
+
+@if (Data is not null)
+{
+    <table>
+        <tbody>
+
+            @foreach (var item in Data)
+            {
+                <tr>
+                    <td>@item</td>
+
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+
+@code {
+    public string? assetname;
+    public string? Machinename;
+    public IEnumerable<Klingelnberg>? Data = null;
+    private async Task GetMachineName()
+    {
+        Data = await _objmachineasset.GetListOfMachines(assetname);
+    }
+
+    private async Task GetAssetName()
+    {
+        Data = await _objmachineasset.GetListOfAssets(Machinename);
+    }
+
+     private async Task GetLatestseriesMachine()
+    {
+        Data = await _objmachineasset.MachineWithAllLatestSeries();
+    }
+}

@@ -33,3 +33,4 @@ C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\DemoUI\obj\Debug\net6.0\refint\DemoU
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\DemoUI\obj\Debug\net6.0\DemoUI.pdb
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\DemoUI\obj\Debug\net6.0\DemoUI.genruntimeconfig.cache
 C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\DemoUI\obj\Debug\net6.0\ref\DemoUI.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\DemoUI\bin\Debug\net6.0\Newtonsoft.Json.dll

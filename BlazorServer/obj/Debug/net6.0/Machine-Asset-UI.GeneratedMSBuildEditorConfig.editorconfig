@@ -20,6 +20,34 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/App.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/MachineAssetBase.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXE1hY2hpbmVBc3NldEJhc2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/Pages/Machine-Asset UI.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFjaGluZS1Bc3NldCBVSS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +56,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-trmitxu9kv
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-t3gyrfn6ru
+
 [C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rc7beq42ib
@@ -35,6 +71,18 @@ build_metadata.AdditionalFiles.CssScope = b-rc7beq42ib
 [C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-cbg7czyuas
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXF9Ib3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/MachineAssetServer/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TWFjaGluZUFzc2V0U2VydmVyXFBhZ2VzXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/kurh_rut/Desktop/C_Sharp_tutorials/BlazorServer/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s

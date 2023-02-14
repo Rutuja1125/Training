@@ -1,4 +1,5 @@
-﻿using System.Data;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Data;
 
 namespace Machine_assest.Models
 {
@@ -7,7 +8,9 @@ namespace Machine_assest.Models
     /// </summary>
     public class Klingelnberg
     {
+        [Required]
         private string? Machinename { get; }
+        [Required]
         private string? Assetname { get; }
         private string? Series { get; }
        

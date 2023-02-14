@@ -4,6 +4,6 @@ namespace DemoUI.Services
 {
     public interface IProductServices
     {
-        Task<Product[]> GetProducts();
+        Task<IEnumerable<Product>> GetProducts();
     }
 }

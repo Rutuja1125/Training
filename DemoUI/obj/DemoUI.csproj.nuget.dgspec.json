@@ -109,9 +109,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[2.2.2, )"
+              "version": "[13.0.2, )"
             }
           },
           "imports": [

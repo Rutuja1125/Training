@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NDObMAQYJdTgfylnyN2wril5Oc1BX5AXns+7RY3lA/xLM28w2iogqQdQ3ZXnYz8R89emJL4pqIzFzQbxT8D+qw==",
+  "dgSpecHash": "M1TAyhQYJujGb7dotv+hs0fwSUTQuHbYpQc2TJdQULKg2wXQQT72KPUlrxZqCb59RZ6okC3e05rghSJ5pEt3ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAsset.csproj",
+  "projectFilePath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAssetServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

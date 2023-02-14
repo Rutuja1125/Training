@@ -4,6 +4,10 @@
 @using DemoUI.Services;
 @inject IProductServices _productservice
 
+<!--#endregion-->
+
+<!--#Region Html-->
+
 <h3>Product Details</h3>
 @if(Data == null)
 {
@@ -11,14 +15,14 @@
 }
 else
 {
-    <table>
+    <table border="1">
        <thead>
             <tr>
                 <th>Id</th>
-                <th>Product Name</th>
-                <th>Product Price</th>
-                <th>Product Quantity</th>
-                <th>Product Brand</th>
+                <th>Product Name </th>
+                <th>Product Price </th>
+                <th>Product Quantity </th>
+                <th>Product Brand </th>
             </tr>
        </thead>
        <tbody>
@@ -35,12 +39,15 @@ else
         </tbody>
     </table>
 }
-@code {
+@code{
     private IEnumerable<Product>? Data = null;
     protected override async Task OnInitializedAsync()
     {
         await base.OnInitializedAsync();
+
+        
         Data = await _productservice.GetProducts();
     }
+   
 }
 <!--#End Region Html-->

@@ -1,45 +1,32 @@
-﻿@page "/"
+﻿@page "/MachineAsset"
+@using MachineAssetServer.Services;
+@using MachineAssetServer.Pages;
+@inject IMachineAsset _objmachineasset
 
-<html>
-    <body>
-        <table style="border:1px solid black;background-color:lightcyan">
-        <tr style="border:1px solid black">
-                <td  colspan="2">
-                <h3 style="text-align:center">Machine Asset UI</h3>
-                </td>
-                </tr>
+<PageTitle>MachineAsset UI</PageTitle>
+<h1> Machine Asset UI </h1>
+
+<div >
+    <input type="text" placeholder="Asset name" @bind-value="@Assetname"/>
+    <button @onclick="GetMachineName">Get Machine Name</button>
+   </div>
+
+   <table>
+       <tbody>
+           @foreach (var item in Data)
+            {
                 <tr>
-                    <td>
-                <input placeholder="enter" name="txtasset"/>
-                    </td>
-                    <td>
-                        <button >
-                            <span> Assetname</span>
-                        </button>
-                    </td>
+                    <td>@item</td>
+                    
                 </tr>
-              <tr>
-                    <td>
-                <input placeholder="enter" name="txtmachine"/>
-                    </td>
-                    <td>
-                        <button>
-                            <span>Machinename</span>
-                        </button>
-                    </td>
-                </tr>
-             <tr>
-                 <td>
-                <button>
-                    <span>Latest Series Machine</span>
-                </button>
-                 </td>
-             </tr>
-        </table>
-    </body>
-</html>
-
-
+            }
+       </tbody>
+   </table>
 @code {
+    public string? Assetname;
 
+    private async Task GetMachineName()
+    {
+        var Data = await _objmachineasset.GetListOfMachines(Assetname);
+    }
 }

@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MachineAssetServer",
+    "\\MachineAssetServer\\Pages",
+    "\\MachineAssetServer\\Services"
+  ],
+  "SelectedNode": "\\MachineAssetServer\\Pages\\MachineAssetBase.razor",
+  "PreviewInSolutionExplorer": false
+}

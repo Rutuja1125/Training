@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAsset.csproj",
-      "projectName": "MachineAsset",
-      "projectPath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAsset.csproj",
+      "projectUniqueName": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAssetServer.csproj",
+      "projectName": "MachineAssetServer",
+      "projectPath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\MachineAssetServer.csproj",
       "packagesPath": "C:\\Users\\kurh_rut\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\MachineAsset\\obj\\",
       "projectStyle": "PackageReference",
