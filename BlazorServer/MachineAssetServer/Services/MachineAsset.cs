@@ -1,4 +1,4 @@
-﻿using Machine_assest.Models;
+﻿
 using Newtonsoft.Json;
 
 namespace MachineAssetServer.Services
@@ -11,28 +11,32 @@ namespace MachineAssetServer.Services
         {
             this.httpClient = httpClient;
         }
-        public async Task<IEnumerable<Klingelnberg>> GetListOfMachines(string Assetname)
+        public async Task<List<string>> GetListOfMachines(string Assetname)
         {
             var result = await httpClient.GetAsync($"api/Machines/{Assetname}");
             var result1 = await result.Content.ReadAsStringAsync();
-            var display = JsonConvert.DeserializeObject<IEnumerable<Klingelnberg>>(result1);
+            var display = JsonConvert.DeserializeObject<List<string>>(result1);
             return display;
+
+            
         }
 
-        public async Task<IEnumerable<Klingelnberg>> GetListOfAssets(string Machinename)
+        public async Task<List<string>> GetListOfAssets(string Machinename)
         {
             var result = await httpClient.GetAsync($"api/Assets/{Machinename}");
             var result1 = await result.Content.ReadAsStringAsync();
-            var display = JsonConvert.DeserializeObject<IEnumerable<Klingelnberg>>(result1);
+            var display = JsonConvert.DeserializeObject<List<string>>(result1);
+           
             return display;
         }
 
-        public async Task<IEnumerable<Klingelnberg>> MachineWithAllLatestSeries()
+        public async Task<string> MachineWithAllLatestSeries()
         {
             var result = await httpClient.GetAsync($"api/Series");
             var result1 = await result.Content.ReadAsStringAsync();
-            var display = JsonConvert.DeserializeObject<IEnumerable<Klingelnberg>>(result1);
-            return display;
+          //  var display = JsonConvert.DeserializeObject<string>(result1);
+            return result1;
         }
     }
 }
+

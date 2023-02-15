@@ -40,11 +40,6 @@
             </summary>
             <returns>Machine name with maximum latest series</returns>
         </member>
-        <member name="T:Machine_assest.Models.Klingelnberg">
-             <summary>
-            Klingelnberg class with properties
-             </summary>
-        </member>
         <member name="T:Machine_assest.Services.IMachineAssetRepository">
             <summary>
             IMachineAssetRepository interface containing methods to create datatable, provides list of machines, list of assets, machine having latest series.

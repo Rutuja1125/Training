@@ -1,0 +1,12 @@
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\bin\Debug\net6.0\MachineAssetModels.deps.json
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\bin\Debug\net6.0\MachineAssetModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\bin\Debug\net6.0\MachineAssetModels.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.csproj.AssemblyReference.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.AssemblyInfoInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.AssemblyInfo.cs
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.csproj.CoreCompileInputs.cache
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\refint\MachineAssetModels.dll
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\MachineAssetModels.pdb
+C:\Users\kurh_rut\Desktop\C_Sharp_tutorials\BlazorServer\MachineAssetModels\obj\Debug\net6.0\ref\MachineAssetModels.dll

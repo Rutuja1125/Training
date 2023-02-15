@@ -1,7 +1,6 @@
 ﻿@page "/MachineAsset"
 @using MachineAssetServer.Services;
 @using MachineAssetServer.Pages;
-@using Machine_assest.Models;
 @inject IMachineAsset _objmachineasset
 
 <PageTitle>MachineAsset UI</PageTitle>
@@ -50,12 +49,24 @@
         </tbody>
     </table>
 }
+else
+{
+    <table>
+        <tbody>
+            <tr>
+                <td>@Data1</td>
+            </tr>
+        </tbody>
+    </table>
+}
 
 
 @code {
     public string? assetname;
     public string? Machinename;
-    public IEnumerable<Klingelnberg>? Data = null;
+    public List<string>? Data = null;
+    public string? Data1 = null;
+
     private async Task GetMachineName()
     {
         Data = await _objmachineasset.GetListOfMachines(assetname);
@@ -68,6 +79,6 @@
 
      private async Task GetLatestseriesMachine()
     {
-        Data = await _objmachineasset.MachineWithAllLatestSeries();
+        Data1 = await _objmachineasset.MachineWithAllLatestSeries();
     }
 }

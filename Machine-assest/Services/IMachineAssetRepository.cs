@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 using System.Data;
-
+using MachineAssetModels.Models;
 namespace Machine_assest.Services
 {
     /// <summary>

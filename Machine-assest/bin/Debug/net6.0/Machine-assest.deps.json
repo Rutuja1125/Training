@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "Machine-assest/1.0.0": {
         "dependencies": {
+          "MachineAssetModels": "1.0.0",
           "MongoDB.Bson": "2.19.0",
           "MongoDB.Driver": "2.19.0",
           "MongoDB.Driver.Core": "2.19.0",
@@ -203,6 +204,11 @@
             "fileVersion": "0.6.2.0"
           }
         }
+      },
+      "MachineAssetModels/1.0.0": {
+        "runtime": {
+          "MachineAssetModels.dll": {}
+        }
       }
     }
   },
@@ -372,6 +378,11 @@
       "sha512": "sha512-jPao/LdUNLUz8rn3H1D8W7wQbZsRZM0iayvWI4xGejJg3XJHT56gcmYdgmCGPdJF1UEBqUjucCRrFB+4HbJsbw==",
       "path": "zstdsharp.port/0.6.2",
       "hashPath": "zstdsharp.port.0.6.2.nupkg.sha512"
+    },
+    "MachineAssetModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

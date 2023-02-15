@@ -369,6 +369,16 @@
         "runtime": {
           "lib/net6.0/ZstdSharp.dll": {}
         }
+      },
+      "MachineAssetModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MachineAssetModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MachineAssetModels.dll": {}
+        }
       }
     }
   },
@@ -955,10 +965,16 @@
         "zstdsharp.port.0.6.2.nupkg.sha512",
         "zstdsharp.port.nuspec"
       ]
+    },
+    "MachineAssetModels/1.0.0": {
+      "type": "project",
+      "path": "../BlazorServer/MachineAssetModels/MachineAssetModels.csproj",
+      "msbuildProject": "../BlazorServer/MachineAssetModels/MachineAssetModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MachineAssetModels >= 1.0.0",
       "MongoDB.Bson >= 2.19.0",
       "MongoDB.Driver >= 2.19.0",
       "MongoDB.Driver.Core >= 2.19.0",
@@ -997,7 +1013,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\BlazorServer\\MachineAssetModels\\MachineAssetModels.csproj": {
+              "projectPath": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\BlazorServer\\MachineAssetModels\\MachineAssetModels.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

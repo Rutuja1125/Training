@@ -1,23 +1,11 @@
 {
   "Version": 1,
-  "Hash": "CS/vf9opEjXGigTI2ziIwPK07jF/+KpnuYkDLA0DjE4=",
+  "Hash": "sEKlwZ6o7GMk+qHuKtsjZ0rGVHPMEtIVxTw2fHI7OFQ=",
   "Source": "MachineAssetServer",
   "BasePath": "_content/MachineAssetServer",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [
-    {
-      "Identity": "C:\\Users\\kurh_rut\\Desktop\\C_Sharp_tutorials\\Machine-assest\\Machine-assest.csproj",
-      "Version": 2,
-      "Source": "Machine-assest",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
-    }
-  ],
+  "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
       "Name": "MachineAssetServer\\wwwroot",

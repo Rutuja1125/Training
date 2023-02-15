@@ -7,11 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Nancy" Version="2.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Machine-assest\Machine-assest.csproj" />
+    <ProjectReference Include="..\MachineAssetModels\MachineAssetModels.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,11 +1,12 @@
-﻿using Machine_assest.Models;
+﻿using MachineAssetModels.Models;
+using System.Net.NetworkInformation;
 
 namespace MachineAssetServer.Services
 {
     public interface IMachineAsset
     {
-        Task<IEnumerable<Klingelnberg>> GetListOfMachines(string Assetname);
-        Task<IEnumerable<Klingelnberg>> GetListOfAssets(string Machinename);
-        Task<IEnumerable<Klingelnberg>> MachineWithAllLatestSeries();
+        Task<List<string>> GetListOfMachines(string Assetname);
+        Task<List<string>> GetListOfAssets(string Machinename);
+        Task<string> MachineWithAllLatestSeries();
     }
 }

@@ -19,4 +19,8 @@
     <Folder Include="Resource\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorServer\MachineAssetModels\MachineAssetModels.csproj" />
+  </ItemGroup>
+
 </Project>

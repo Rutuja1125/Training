@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Data;
+using MachineAssetModels.Models;
 using Machine_assest.Services;
 
 namespace Machine_assest.Controllers
